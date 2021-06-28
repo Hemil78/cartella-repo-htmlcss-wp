@@ -91,6 +91,7 @@ h1{
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 5px 5px 5px silver;
+    filter: brightness(95%);
 }
     
 .contenuto p {color: gray;}
