@@ -73,7 +73,7 @@ li a:hover{color: lightgray;}
     position: absolute;
     bottom: 50px;
     left: 30px;
-    width: 600px;
+    width: 500px;
     color: white;
 }
 
@@ -98,7 +98,7 @@ h1{
 
 .contenuto {padding: 15px 0;}
 
-.top {padding: 10px 0;}
+.top {padding: 10px 30px;}
 
 .left-25, .center-50, .right-25 {
     float: left;
